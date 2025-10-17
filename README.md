@@ -2,13 +2,13 @@
 
 Year Wise Sales | Amazon_Global_Dashboard
 
-1. description
-This Power BI dashboard provides an interactive analysis of Amazon Global Superstore performance across multiple years. 
-It helps track and compare key metrics such as sales, profit, quantity, and customer performance over time.
-Developed an interactive Power BI dashboard to analyze and visualize key business metrics.
-Performed data cleaning and transformation using Power Query, created relationships between tables, 
-and built insightful visual reports. The dashboard helps track performance trends, identify patterns,
-and support data-driven decision-making.
+ 1. description
+    This Power BI dashboard provides an interactive analysis of Amazon Global Superstore performance across multiple years. 
+    It helps track and compare key metrics such as sales, profit, quantity, and customer performance over time.
+    Developed an interactive Power BI dashboard to analyze and visualize key business metrics.
+    Performed data cleaning and transformation using Power Query, created relationships between tables, 
+    and built insightful visual reports. The dashboard helps track performance trends, identify patterns,
+    and support data-driven decision-making.
 
 2. Tech stack
    📊 Year-wise sales and profit trends to identify growth and decline periods.
@@ -42,9 +42,10 @@ and support data-driven decision-making.
 6. snapshot
 
    show what the dashboard look like : amazon_global_dashboardpbit.pbit
+   
   https://github.com/vaishnavibb2401/Amazon_global_dashboard/blob/main/snapshot_amazon_global_dashboard.png 
    
-   
+<img width="1309" height="733" alt="snapshot_amazon_global_dashboard" src="https://github.com/user-attachments/assets/f15e657a-eb87-4186-9285-fdb715dc84ed" />
 
 
   
