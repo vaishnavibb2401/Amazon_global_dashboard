@@ -42,10 +42,10 @@ Year Wise Sales | Amazon_Global_Dashboard
 6. snapshot
 
    show what the dashboard look like : amazon_global_dashboardpbit.pbit
+   https://github.com/vaishnavibb2401/Amazon_global_dashboard/blob/main/snapshort_dashboard_sales.png
    
-  https://github.com/vaishnavibb2401/Amazon_global_dashboard/blob/main/snapshot_amazon_global_dashboard.png 
-   
-<img width="1309" height="733" alt="snapshot_amazon_global_dashboard" src="https://github.com/user-attachments/assets/f15e657a-eb87-4186-9285-fdb715dc84ed" />
+<img width="1320" height="736" alt="snapshort_dashboard_sales" src="https://github.com/user-attachments/assets/9682c1b5-d4da-4b64-a11f-7a0be89efb54" />
+
 
 
   
