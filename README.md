@@ -11,6 +11,7 @@ Year Wise Sales | Amazon_Global_Dashboard
     and support data-driven decision-making. 
 
 2. Tech stack
+   
    📊 Year-wise sales and profit trends to identify growth and decline periods.
    
    🌍 Regional and category-wise analysis to highlight top-performing markets and product segments.
