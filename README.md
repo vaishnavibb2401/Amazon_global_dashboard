@@ -22,7 +22,7 @@ Year Wise Sales | Amazon_Global_Dashboard
 
  
       This Power BI dashboard offers an interactive, year-wise analysis of Amazon Global Superstore,
-      enabling users to track and compare key metrics like sales, profit, quantity, and customer performance over time
+      enabling users to track and compare key metrics like sales, profit,quantity, and customer performance over time
 
 4.Data source 
 
